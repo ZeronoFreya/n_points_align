@@ -12,3 +12,9 @@ iSyuq0odyloh
 > i925X0oeofzi
 
 ---
+
+* 更新 20230226
+
+添加xyz轴的约束
+
+> i5FX20olalkh
